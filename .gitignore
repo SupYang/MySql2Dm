@@ -16,3 +16,4 @@ dependency-reduced-pom.xml
 # 系统文件
 Thumbs.db
 .DS_Store
+/config - 副本.properties
