@@ -1,0 +1,18 @@
+# 构建产物
+target/
+dependency-reduced-pom.xml
+
+# 运行日志
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# 系统文件
+Thumbs.db
+.DS_Store
